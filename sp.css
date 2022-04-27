@@ -1,0 +1,209 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    overflow-x: hidden;
+}
+.navbar{
+
+    background-color: black;
+    height: 80px;
+}
+.spimg{
+    height: 39px;
+    width: 132px;
+    margin-top: 20px;
+    margin-left: 105px;
+}
+.navbar h3{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 770px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    margin-top: -30px;
+}
+.main{
+    height: 637px;
+    background-color: rgb(153, 51, 153);
+
+}
+.main h5{
+    color: #fff;
+    font-size: 14px;
+    font-family:   spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    padding-top: 85px;
+    margin-left: 105px;
+}
+
+
+
+.main h1{
+    color: #fff;
+    font-size: 58px;
+    font-family: spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    padding-top: 50px;
+    margin-left: 105px;
+}
+.main h2{
+    color: #fff;
+    font-size: 24px;
+    font-family:  spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    margin-left: 105px;
+    margin-top: 33px;
+    line-height: 1.5;
+    font-weight: 400;
+
+}
+.BT{
+    
+    width: 206px;
+    height: 48px;
+    color: #fff;
+    background-color: black;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: 700;
+    font-size: 14px;
+    border-style: none;
+    border-radius: 40px;
+    margin-left: 105px;
+    margin-top: 40px;
+
+}
+.main h6{
+    color: #fff;
+    font-size: 13px;
+    margin-left: 105px;
+    margin-top: 45px;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif  ;
+    font-weight: normal;
+}
+.img1{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin-top: -445px;
+    margin-left: 850px;
+}
+.main2{
+    height: 607px;
+    background-color: rgb(41, 65, 171);
+}
+.main2 h5{
+    color: #1ed760;
+    font-size: 14px;
+    font-family:   spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    padding-top: 85px;
+    margin-left: 105px;
+}
+.main2 h1{
+    color:#1ed760;
+    font-size: 58px;
+    font-family: spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    padding-top: 50px;
+    margin-left: 105px;
+}
+.main2 h2{
+    color:#1ed760 ;
+    font-size: 24px;
+    font-family:  spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    margin-left: 105px;
+    margin-top: 33px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.BT1{
+    width: 206px;
+    height: 48px;
+    color:rgb(41, 65, 171) ;
+    background-color: #1ed760;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: 700;
+    font-size: 14px;
+    border-style: none;
+    border-radius: 40px;
+    margin-left: 105px;
+    margin-top: 40px;
+}
+.img2{
+    margin-left: -91px;
+    margin-top: -411px;
+}
+.footer{
+    height: 510px;
+    background-color: black;
+}
+.img3{
+    width: 132px;
+    height: 41px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.text1{
+    color: grey;
+    margin-left: 300px;
+    margin-top:-25PX ;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: 900;
+    font-size: 12px;
+
+    
+}
+.text2{
+    color:white;
+    margin-left: 300px;
+    margin-top:25PX ;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 2.5;
+}
+.text3{
+    
+    color:white;
+    margin-left: 480px;
+    margin-top:-115PX ;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 2.5;
+}
+.text4{
+    color:white;
+    margin-left: 655px;
+    margin-top:-185PX ;
+    font-family:spotify-circular, Circular, Helvetica, Arial, sans-serif ;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 2.5;
+}
+.endimg{
+    margin-left: 1065px;
+    margin-top: -155px;
+    font-size: 35px;
+
+}
+.endtext{
+    color: grey;
+    margin-left: 110px;
+    margin-top: 300px;
+    font-size: 12.2px;
+    font-family: spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+.endtext1{
+color: gray;
+font-size: 12.2px;
+font-weight: 300;
+font-family:  spotify-circular, Circular, Helvetica, Arial, sans-serif;
+line-height: 2;
+margin-left: 1130px;
+margin-top:-50px ;
+
+}
+.endimg1{
+    margin-left: 1142px;
+    margin-top: -42px;
+font-size: 12px;
+}
